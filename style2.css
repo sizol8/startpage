@@ -9,7 +9,7 @@ body {
     left: -50px;
     height: calc(100vh + 100px);
     width: calc(100vw + 100px);
-    background-image: url(res/bg11.png);
+    background-image: url(bg11.png);
     background-size: cover;
     background-position: center;
     -webkit-filter: blur(5px) brightness(150%);
